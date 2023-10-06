@@ -9,7 +9,6 @@
 
 - 📄 Checkout my WakaTime [https://wakatime.com/@jxshie](https://wakatime.com/@jxshie)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
