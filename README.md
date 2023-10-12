@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, and TypeScript**
 
-- 📄 Checkout my WakaTime [https://wakatime.com/@jxshie](https://wakatime.com/@jxshie)
-
 <p align="left">
 </p>
 
