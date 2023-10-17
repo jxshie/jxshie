@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Joshua Furi</h1>
 <h3 align="center">A passionate student, and aspiring developer from Canada!</h3>
 
+Fast learner and eager to explore new technologies
+
 - 🔭 I’m currently working on **expanding my portfolio and knowledge**
 
 - 🌱 I’m currently learning **React, and TypeScript**
