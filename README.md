@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Joshua Furi</h1>
 <h3 align="center">A passionate student, and aspiring developer from Canada!</h3>
 
-Fast learner and eager to explore new technologies
+I'm a quick learner and always up for diving into the latest technologies. When I'm not tackling assignments or hitting the books for school, you'll find me enthusiastically exploring new tech horizons!
 
-- 🔭 I’m currently working on **expanding my portfolio and knowledge**
+- 🔭 I’m currently working on **building projects and broadening my knowledge**
 
 - 🌱 I’m currently learning **React, and TypeScript**
 
