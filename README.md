@@ -15,6 +15,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jxshie&label=Profile%20views&color=0e75b6&style=flat" alt="jxshie" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/74a155aa-4ea1-4f00-84e7-84eead2bca5a.svg)](https://wakatime.com/@74a155aa-4ea1-4f00-84e7-84eead2bca5a)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jxshie&show_icons=true&locale=en&layout=compact" alt="jxshie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxshie&show_icons=true&locale=en" alt="jxshie" /></p>
